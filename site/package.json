@@ -27,7 +27,7 @@
     "prism-svelte": "^0.4.3",
     "prismjs": "^1.23.0",
     "sirv": "^1.0.0",
-    "yootils": "0.0.17"
+    "yootils": "0.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.6.0",
