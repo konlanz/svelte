@@ -26,7 +26,7 @@
     "polka": "^1.0.0-next.9",
     "prism-svelte": "^0.4.3",
     "prismjs": "^1.24.1",
-    "sirv": "^1.0.16",
+    "sirv": "^1.0.17",
     "yootils": "0.2.1"
   },
   "devDependencies": {
